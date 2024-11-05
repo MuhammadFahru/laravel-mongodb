@@ -65,12 +65,6 @@ DB_PASSWORD=
 php artisan storage:link
 ```
 
-7. Create storage directory for product images
-```bash
-mkdir -p storage/app/public/products
-chmod -R 775 storage/app/public/products
-```
-
 ## MongoDB Setup
 
 1. Install MongoDB (Ubuntu)
