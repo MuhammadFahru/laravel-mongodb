@@ -221,4 +221,3 @@ If you encounter any issues, please:
 - [Laravel](https://laravel.com)
 - [MongoDB](https://www.mongodb.com)
 - [Bootstrap](https://getbootstrap.com)
-```
